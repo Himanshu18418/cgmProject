@@ -1,0 +1,33 @@
+/* .author{
+    margin-top: 0.6rem;
+}
+.writingContainer>h1{
+margin-top: 5rem;
+font-size: 8rem;
+}
+.imageContainer{
+    height: 50%;
+    width: 50%;
+    margin-left: 22rem;
+}
+.contentPP{
+    margin-top: 5rem;
+    font-size: 30px;
+    width: 800px;
+margin-left: 19rem;
+}
+
+@media screen and (max-width: 600px){
+    .writingContainer{
+
+    }
+    .imageContainer{
+        margin-left: 2rem;
+        height: 32rem;
+        width: 32rem
+    }
+    .contentPP{
+        margin-left: -7rem;
+        font-size: 1rem;
+    }
+} */

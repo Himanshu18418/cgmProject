@@ -1,0 +1,83 @@
+/* 
+
+.box>a>h1{
+    font-family: 'Montserrat';
+    font-size: 26px;
+    margin-left: 1rem;
+}
+.box>a{
+    color: black;
+}
+.box{
+
+    margin-top: 2rem;
+    background-color: white;
+    width: 90%;
+    border-radius: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+padding: 30px;
+    margin-left: 1rem;
+display: block;
+
+    overflow: hidden;
+  white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.box>p{
+    margin-left: 1rem;
+text-align: left;
+    font-family: 'Montserrat';
+    margin-top: 1rem;
+}
+
+.like{
+
+}
+
+.icons{
+    display: flex;
+}
+.comment{
+    
+    
+}
+.like:hover{
+    color: red;
+    cursor: pointer;
+}
+.comment:hover{
+    cursor: pointer;
+}
+.delete{
+    margin-left: 30rem
+}
+.DialogBox{
+    height: 400px;
+    width: 700px;
+}
+.DialogBox>h4{
+    text-align: center;
+    margin-right: 7rem;
+    margin-top: 2rem;
+}
+.DialogBox>.commentForm>input[type="text"]{
+    margin-left: 9rem;
+    margin-top: 4rem;
+    padding: 10px;
+    width: 15rem;
+}
+
+.DialogBox>h6{
+    text-align: center;
+    margin-right: 7rem;
+    font-size: 1rem;
+    margin-top: 5rem;
+}
+
+@media screen and (max-width: 600px){
+    .box{
+padding: 1rem;
+margin-left: 0.5rem;
+
+    }
+} */

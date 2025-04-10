@@ -1,0 +1,72 @@
+.exploreImg{
+    margin-top: 9rem;
+
+}
+
+.exploreContainer{
+
+    display: flex;
+}
+.explore{
+
+}
+.searchResults {
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    padding: 2vmax;
+    box-sizing: border-box;
+    margin: 2vmax;
+  }
+
+.Title{
+
+font-size: 9rem;
+margin-left: 10rem;
+margin-top: 7rem;
+font-family: 'Lato';
+}
+.sub{
+
+    text-align: center;
+padding-left: 120px;
+font-family: 'Montserrat';
+font-size: 2rem;
+}
+.search{
+
+    margin-top: 10rem;
+
+
+}
+.searchForm>input{
+    border: 2px solid #f3f3f3;
+    box-sizing: border-box;
+    padding: 1vmax 2vmax;
+    width: 80%;
+    border-radius: 40px;
+
+    margin: 1vmax;
+    font: 100 1.2rem "Montserrat", sans-serif;
+    outline: none;
+}
+
+@media screen and (max-width: 600px){
+
+    .exploreContainer{
+        display: block;
+    }
+    .exploreImg{
+        display: none;
+    }
+    .Title{
+        margin-top: 10rem;
+        margin-left: 2rem;
+        padding: 1rem;
+
+    }
+    .sub{
+        margin-left: 0rem;
+        padding-left: 0;
+    }
+}

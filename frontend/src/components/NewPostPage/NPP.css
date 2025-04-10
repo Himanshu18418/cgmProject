@@ -1,0 +1,97 @@
+/* .postContainer{
+
+    height: 40rem;
+    width: 50%;
+    margin: 2rem;
+    margin-left: 20rem;
+}
+.postContainer>form>h1{
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 3rem;
+}
+
+
+.caption{
+    border: 2px solid #f3f3f3;
+    margin: 2rem;
+}
+.caption > input[type="text"] {
+height: 7rem;
+
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    font: 100 1.2rem "Roboto", sans-serif;
+  }
+
+.postContainer>form>button{
+    font-family: 'Roboto' sans-serif;
+    font-size: 1.5rem;
+    border-radius: 40px;
+    padding: 1rem;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #DE354C;
+    color: white;
+    border: none;
+    margin-left: 16rem;
+}
+
+form > input[type="file"] {
+    border-radius: 30px;
+    margin: 2vmax;
+    margin-left: 14rem;
+
+  }
+  
+form > input[type="file"]::-webkit-file-upload-button {
+    background-color: rgb(0, 157, 255);
+    color: white;
+    width: 100%;
+    padding: 1vmax;
+    border-radius: 30px;
+    border: none;
+    font: 100 1.2rem "Lato", sans-serif;
+
+  }
+form>img{
+    margin-left: 7rem;
+    margin-top: 2rem;
+width: 500px;
+height: 500px;
+object-fit: cover;
+}
+
+.title{
+    border: 2px solid #f3f3f3;
+    margin: 2rem;
+}
+.title > input[type="text"] {
+height: 3rem;
+    
+        border-radius: 30px;
+        border: none;
+        outline: none;
+        font: 100 1.2rem "Roboto", sans-serif;
+      }
+      @media screen and (max-width: 600px){
+        .postContainer{
+margin-left: 0;
+
+width: 600px;
+        }
+        .postContainer>form>h1{
+
+        }
+        .postContainer>form>button{
+            margin-left: 13rem;
+        }
+        form > input[type="file"]{
+            margin-left: 11rem;
+            margin-top: 2rem;
+        }
+        form>img{
+            margin-left: 3rem;
+        }
+      } */
